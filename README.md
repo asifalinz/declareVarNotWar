@@ -1,0 +1,2 @@
+# declareVarNotWar
+Trademe sandbox
